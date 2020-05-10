@@ -73,6 +73,7 @@ fn nop(input: Option<u8>, stack:&mut Vec<u8>, acc: &mut u8){
 }
 
 fn pop(input: Option<u8>, stack:&mut Vec<u8>, acc: &mut u8) {
-    Vec
+
 }
 
+ 
